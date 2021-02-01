@@ -1,0 +1,88 @@
+/*Created by Dhinesh Vino*/
+
+body{
+    padding: 2px;
+    padding-top: 200px;
+    background-color:black;
+    text-align:center;
+    align-content: center;
+    position: relative;
+}
+
+#days{
+     font-family: 'Orbitron';
+     font-size:30px;
+     padding-bottom:10px;
+     font-weight:bold;
+     padding-left:15px;
+}
+
+#clock{
+    padding-top: 50px;
+    margin:auto;
+    color: #e7fe17;
+    width:280px; 
+    height: 168px;
+    border:#fff solid  6px;
+    border-radius: 14px;
+
+}
+
+#hrMinSec{
+    float:right;
+    font-size: 47px;
+    font-family: 'Segment7Standard';
+    padding-right:20px;
+    padding-bottom:10px;
+}
+
+#am-pm{
+    float:left;
+    font-size: 13px;
+    font-family:'Orbitron';
+    padding-top:20px;
+    padding-left:7px;
+    font-weight:bold;
+}
+
+#month{
+    float:left;
+    padding-top:10px;
+    font-family:"Orbitron";
+    font-size:22px;
+    font-weight:bold;
+    padding-left:5px;
+}
+
+#year{
+    float:right;
+    padding-left:80px;
+    padding-right:15px;
+    padding-bottom:50px;
+    padding-top:7px;
+    font-size:22px;
+    font-family:"Orbitron";
+    font-weight:bold;
+}
+
+#date{
+    padding-top:10px;
+    float:left;
+    padding-left:15px;
+    font-size:22px;
+    font-family:"Orbitron";
+    font-weight:bold; 
+}
+
+#about-me{
+    color: #fff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top:100px;
+    font-size: 20px;
+}
+
+a:link { 
+   text-decoration: none;
+   color:#17D4FE;
+}
